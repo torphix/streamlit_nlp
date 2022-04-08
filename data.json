@@ -1,1 +1,30 @@
-{"entries": [{"datetime": "05/04/2022", "text": "asdfasdf", "sentiments": [{"label": "anger", "score": 0.017575161531567574}, {"label": "disgust", "score": 0.007612788118422031}, {"label": "fear", "score": 0.00398576445877552}, {"label": "joy", "score": 0.007306283805519342}, {"label": "neutral", "score": 0.8617514967918396}, {"label": "sadness", "score": 0.05627840384840965}, {"label": "surprise", "score": 0.04549006372690201}]}, {"datetime": "05/04/2022", "text": "Today was great super happy", "sentiments": [{"label": "anger", "score": 0.0016332711093127728}, {"label": "disgust", "score": 0.00042140600271523}, {"label": "fear", "score": 0.0004152303154114634}, {"label": "joy", "score": 0.9215815663337708}, {"label": "neutral", "score": 0.01361975446343422}, {"label": "sadness", "score": 0.00810073409229517}, {"label": "surprise", "score": 0.054228007793426514}]}, {"datetime": "05/04/2022", "text": "What is the meaning of life? Feeling down", "sentiments": [{"label": "anger", "score": 0.0020317642483860254}, {"label": "disgust", "score": 0.002970061730593443}, {"label": "fear", "score": 0.006728322710841894}, {"label": "joy", "score": 0.0005214482080191374}, {"label": "neutral", "score": 0.008741088211536407}, {"label": "sadness", "score": 0.9754026532173157}, {"label": "surprise", "score": 0.003604758996516466}]}]}
+{
+	"entries": [
+		{
+			"datetime": "05/04/2022",
+			"text": "Today was great, super happy",
+			"sentiments": [
+				{ "label": "anger", "score": 0.0016332711093127728 },
+				{ "label": "disgust", "score": 0.00042140600271523 },
+				{ "label": "fear", "score": 0.0004152303154114634 },
+				{ "label": "joy", "score": 0.9215815663337708 },
+				{ "label": "neutral", "score": 0.01361975446343422 },
+				{ "label": "sadness", "score": 0.00810073409229517 },
+				{ "label": "surprise", "score": 0.054228007793426514 }
+			]
+		},
+		{
+			"datetime": "05/04/2022",
+			"text": "What is the meaning of life? Feeling down",
+			"sentiments": [
+				{ "label": "anger", "score": 0.0020317642483860254 },
+				{ "label": "disgust", "score": 0.002970061730593443 },
+				{ "label": "fear", "score": 0.006728322710841894 },
+				{ "label": "joy", "score": 0.0005214482080191374 },
+				{ "label": "neutral", "score": 0.008741088211536407 },
+				{ "label": "sadness", "score": 0.9754026532173157 },
+				{ "label": "surprise", "score": 0.003604758996516466 }
+			]
+		}
+	]
+}
