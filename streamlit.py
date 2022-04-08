@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 from nlp import NLPProcessor
 from datetime import datetime
-import streamlit.components.v1 as components
+# import streamlit.components.v1 as components
 from utils import read_json, add_entry, get_sentiment_text
 
 # Globals
@@ -28,11 +28,11 @@ def post_entry():
     reload_dataframe()    
     
 # UI
-calendar_component = components.declare_component(
-    "calendar_component",
-    url="http://localhost:3001",
-)
-calendar = calendar_component(calendarName="Calendar", dataSource=DF.to_json())
+# calendar_component = components.declare_component(
+#     "calendar_component",
+#     url="http://localhost:3001",
+# )
+# calendar = calendar_component(calendarName="Calendar", dataSource=DF.to_json())
 journal_entry = st.text_area("Today's Entry", 
                             value="",
                             height=None,
