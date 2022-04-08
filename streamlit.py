@@ -63,6 +63,3 @@ for i in reversed(DF.index):
     st.text(entry['text'])
     st.markdown("***")
         
-'''
-Try to cheer up if user feeling sad?
-'''
