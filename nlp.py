@@ -54,11 +54,3 @@ class NLPProcessor:
     
         
     
-    
-
-
-
-# nlp = NLPProcessor()
-# embs = nlp.similarity(['Today I felt like shit', 'Today i felt great', 'what a wonderful day'])
-# scores = nlp.cosine_similarity(embs)
-# print(scores)
