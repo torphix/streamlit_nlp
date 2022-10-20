@@ -1,5 +1,4 @@
-<!-- Smart Journal -->
-# Features
-1. Sentiment analysis of entries
-2. Clustering of days depending on input features
-3. Querying
+## A small app to test out streamlit features
+1) Performs sentiment analysis of input text
+2) Graphs the overall mood trends of the inputted text
+3) run with streamlit.py
